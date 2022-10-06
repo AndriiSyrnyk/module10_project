@@ -1,0 +1,7 @@
+name age
+andrii 32
+volodymyr 28
+oleh 32
+sofia 24
+olha 22
+anna 28
